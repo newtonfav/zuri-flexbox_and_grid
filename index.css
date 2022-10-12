@@ -26,8 +26,10 @@ body {
   padding: 30px;
   border-radius: 5px;
   color: #eee;
-  max-width: 15%;
+/*   max-width: 15%; */
   margin: -5px;
+
+  flex: 0 0 30%;
 }
 
 .box__sedans {
